@@ -1,34 +1,36 @@
-"user": [
-    {
-      "id": "01",
-      "name": "kasun",
-      "nic": "200129001050",
-      "password": "password",
-      "type": "type01",
-      "postalCode": 7000
-    },
-    {
-      "id": "02",
-      "name": "nethu",
-      "nic": "200129001051",
-      "password": "password",
-      "type": "type01",
-      "postalCode": 7000
-    },
-    {
-      "id": "03",
-      "name": "shehan",
-      "nic": "200129001053",
-      "password": "password",
-      "type": "type03",
-      "postalCode": 8000
-    },
-    {
-      "id": "04",
-      "name": "ashen",
-      "nic": "200129001053",
-      "password": "password",
-      "type": "type02",
-      "postalCode": 6000
-    }
-  ]
+{
+    "user": [
+        {
+          "id": "01",
+          "name": "kasun",
+          "nic": "200129001050",
+          "password": "password",
+          "type": "type01",
+          "postalCode": 7000
+        },
+        {
+          "id": "02",
+          "name": "nethu",
+          "nic": "200129001051",
+          "password": "password",
+          "type": "type01",
+          "postalCode": 7000
+        },
+        {
+          "id": "03",
+          "name": "shehan",
+          "nic": "200129001053",
+          "password": "password",
+          "type": "type03",
+          "postalCode": 8000
+        },
+        {
+          "id": "04",
+          "name": "ashen",
+          "nic": "200129001053",
+          "password": "password",
+          "type": "type02",
+          "postalCode": 6000
+        }
+    ]
+}
